@@ -1,0 +1,187 @@
+/*CSS made by Kristdev*/
+
+html,body {
+  height: 100%;
+  /* The html and body elements cannot have any padding or margin. */
+}
+
+/* Wrapper for page content to push down footer */
+
+.home_background, .info_background, .home_footer, .showcase{
+	background-color: #F2F2DC;
+}
+
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  /* Negative indent footer by its height */
+  margin: 0 auto -60px;
+  /* Pad bottom by footer height */
+  padding: 0 0 60px;
+}
+
+.wrapper_info {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  /* Negative indent footer by its height */
+  margin: 0 auto -60px;
+  /* Pad bottom by footer height */
+  padding: 40px 0 60px;
+}
+.home_entete{
+	background-color: rgba(255,255,255,0.1);
+	box-shadow: 0px 1px 2px black;
+}
+
+.home_annonce{
+	/*font-family: 'Cantora One', sans-serif;*/
+	/*background-color: rgba(194,185,174,0.81);*/
+	background-image: linear-gradient(120deg, rgba(0,0,0,0.1), black); /*rgba(194,185,174,0.7)*/
+	min-height: 200px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 0px 10px black;
+    /*color: white;*/
+    margin-top: 10%;
+    margin-bottom: 20px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    -o-border-radius: 10px 10px 10px 10px;
+    color: white;
+    /*font-weight: bold;*/
+}
+
+.home_annonce h3, .home_annonce h1{
+	font-family: 'Prosto One', cursive;
+	text-shadow: 0px 0px 2px rgba(0,0,0,0.2);
+	color: #AD6717;
+}
+
+ .home_annonce h2, .showcase .titre{
+ 	font-family: 'Prosto One', cursive;
+	text-shadow: 0px 0px 2px rgba(0,0,0,0.2);
+ }
+
+.home_footer {
+  min-height: 60px;
+  line-height: 60px;
+  box-shadow: 0px 0px 2px black;
+  font-family: 'Prosto One', cursive;
+}
+
+.firstrow{
+	background-image: url(../img/bg_repeat/exclusive_paper.png);
+}
+
+.secondrow{
+	background-image: url(../img/bg_repeat/pool_table.png);
+	box-shadow: 0px -1px 5px black;
+}
+
+.thirdrow{
+  background-image: url(../img/bg_repeat/batthern.png);
+  box-shadow: 0px -1px 5px black;
+}
+
+.fourthrow{
+  background-image: url(../img/bg_repeat/bright_squares.png);
+  box-shadow: 0px -1px 5px black;
+}
+
+.fifthrow{
+  background-image: url(../img/bg_repeat/mirrored_squares.png);
+  box-shadow: 0px -1px 5px black;
+}
+
+.wrapper_info .page-header{
+	border-bottom:2px solid #C2B9AE;
+	font-family: 'Prosto One', cursive;
+	color: #C2B9AE;
+	text-shadow: 2px 1px 1px rgba(0,0,0,0.1);
+}
+
+.fifthrow .page-header{
+  border-bottom:2px solid #000;
+  font-family: 'Prosto One', cursive;
+  color: #000;
+  text-shadow: 2px 1px 1px rgba(0,0,0,0.1);
+}
+
+.showcase{
+	box-shadow: 0px 0px 2px black;
+	-moz-border-radius: 3px 3px 3px 3px;
+    -webkit-border-radius: 3px 3px 3px 3px;
+    -o-border-radius: 3px 3px 3px 3px;
+    border-radius: 3px 3px 3px 3px;
+}
+
+.showcase dl{
+	padding-left: 5px;
+    padding-right: 5px;
+}
+
+.showcase .titre{
+	background-color: #C2BEB9;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+}
+
+.bwWrapper {
+    position:relative;
+    display:block;
+}
+
+/*.am-container{
+    float:left;
+    position:relative;
+    overflow:hidden;
+}
+.am-container img{
+    position:absolute;
+    outline:none;
+}*/
+
+.sponsorListHolder{
+    margin-bottom:30px;
+}
+
+.sponsor{
+    width:180px;
+    height:180px;
+    float:left;
+    margin:4px;
+
+    /* Giving the sponsor div a relative positioning: */
+    position:relative;
+    cursor:pointer;
+}
+
+.sponsorFlip{
+    /*  The sponsor div will be positioned absolutely with respect
+        to its parent .sponsor div and fill it in entirely */
+
+    position:absolute;
+    left:0;
+    top:0;
+    width:100%;
+    height:100%;
+    border:1px solid #ddd;
+    background:url("img/background.jpg") no-repeat center center #fff; /*#f9f9f9*/
+    text-align: center;
+}
+
+.sponsorFlip img{
+  vertical-align: middle;
+  display:block;
+}
+
+.sponsorFlip:hover{
+    border:1px solid #999;
+
+    /* CSS3 inset shadow: */
+    /*-moz-box-shadow:0 0 30px #999 inset;
+    -webkit-box-shadow:0 0 30px #999 inset;
+    box-shadow:0 0 30px #999 inset;*/
+}

@@ -1,0 +1,261 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nav",
+				"nav"
+			],
+			[
+				"j",
+				"javascript"
+			],
+			[
+				"tae",
+				"text-align"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"m",
+				"min"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"bo",
+				"border-bottom-color"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-decoration"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"emmet",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/lekolatier-2014/css/my_stylesheet.css",
+		"/C/wamp/www/lekolatier-2014/infos.html",
+		"/C/wamp/www/lekolatier-2014/css/my_bootstrap.css",
+		"/C/wamp/www/lekolatier-2014/index.html",
+		"/C/Users/phannel/Desktop/mydocs/tutos/layouts/bootstrap tutos/fichiers/bootstrap-3.0.0/bootstrap-3.0.0/examples/sticky-footer-navbar/sticky-footer-navbar.css",
+		"/C/Users/phannel/Desktop/mydocs/tutos/layouts/bootstrap tutos/fichiers/bootstrap-3.0.0/bootstrap-3.0.0/examples/sticky-footer-navbar/index.html",
+		"/C/Users/phannel/Desktop/mydocs/tutos/layouts/bootstrap tutos/fichiers/bootstrap-3.0.0/bootstrap-3.0.0/examples/sticky-footer/index.html",
+		"/C/Users/phannel/Desktop/mydocs/tutos/layouts/bootstrap tutos/fichiers/bootstrap-3.0.0/bootstrap-3.0.0/examples/sticky-footer/sticky-footer.css",
+		"/C/wamp/www/bucavoyages/assets/css/jquery.vegas.min.css",
+		"/C/wamp/www/bucavoyages/assets/js/jquery.js",
+		"/C/wamp/www/cloudtest/application/modules/authentification/controllers/authentification.php",
+		"/C/wamp/www/cloudtest/application/modules/authentification/views/authentificationform.php",
+		"/C/wamp/www/bucavoyages/assets/html/index.html",
+		"/C/wamp/www/bucavoyages/application/config/autoload.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"drop",
+			"dropd",
+			".firstrow{\n	/*background-image: url(../img/bg_repeat/beige_paper.png);*/\n	background-image: url(../img/bg_repeat/exclusive_paper.png);\n}",
+			"page-header",
+			"col-lg",
+			"img-responsive",
+			"md",
+			"font-family"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"col-md",
+			"lg",
+			"sx"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "lekolatier-2014.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
